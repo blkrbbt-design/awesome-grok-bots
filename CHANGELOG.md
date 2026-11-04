@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-11-04
+
+Added 18 bots. The list now has 297. Each new entry keeps `date_added: 2026-11-04`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Haggle Bot names no creator. Phone Call Bot (Bowlboy), Bot Improver (Eric), and Join a Startup Bot (Ben) have an empty `creator_handle`, so those names stay plain text.
+
+- Productivity, Research & News (2): Margin, Phone Call Bot
+- Small Business & Freelance (5): Rematch, Contract Signer, Gridlock, Haggle Bot, Pre-Call Brief
+- Developer & Power-User (4): Reverse Engineer, MCP Smith, APP REPLICATOR, T3 Code Bridge
+- Bot Tools (Manage Your Bots) (2): Bot Improver, Routine Auditor
+- Travel (2): BoardingBuddy, Ultimate RV Trip Planner
+- Career & Job Search (1): Join a Startup Bot
+- Fun & Lifestyle (2): Res, Grok Bot DJ From Your Liked Songs
+
 ## 2026-10-31
 
 Added 26 bots and 3 categories. Each new entry keeps `date_added: 2026-10-31`. The new categories have no subsections, so those bots keep an empty `subcategory`. Home robots and Magnum P.I. use existing subsections (`smart-home` and `scams-phishing`). No existing name or link was duplicated, so none were skipped. Appealinator and Apple Shortcut bot name no creator.

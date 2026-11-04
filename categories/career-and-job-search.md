@@ -4,7 +4,7 @@
 
 Find roles, tailor a resume, and practice interviews.
 
-**4** bots. Third-party and unofficial. Read the template before you add it.
+**5** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@ Find roles, tailor a resume, and practice interviews.
 | <a id="bot-rEba1S2MuOrKRmLRbEflv"></a>**Resume Optimizer** | Tailors your resume to a pasted job post and lists gaps to fill, without inventing experience | [@GrokBotGod](https://x.com/GrokBotGod) | [Add](https://x.ai/bot/rEba1S2MuOrKRmLRbEflv) |
 | <a id="bot-slpciJwWffCdi6T1mR0ON"></a>**The Interviewer** | Researches the role from your job + resume, runs a realistic mock interview, and scores you | [@SuddenlyJon](https://x.com/SuddenlyJon) | [Add](https://x.ai/bot/slpciJwWffCdi6T1mR0ON) |
 | <a id="bot-38VwDmQI3aPiEEyiydzAU"></a>**Azure DevOps Interview Coach** | Interview coach for DevOps and Cloud roles on Azure: assesses your real experience, builds a prep plan, and runs hands-on Kubernetes, Terraform and CI/CD practice | [@MapachesAlexis](https://x.com/MapachesAlexis) | [Add](https://x.ai/bot/38VwDmQI3aPiEEyiydzAU) |
+| <a id="bot-XJCoBm6z7qjAnt9ScG8i7"></a>**Join a Startup Bot** | Daily handful of early-stage startup jobs the big boards miss | Ben | [Add](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) |
 
 ---
 

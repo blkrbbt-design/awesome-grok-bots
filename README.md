@@ -1,9 +1,9 @@
 # Awesome Grok Bots
 
-[![Bots](https://img.shields.io/badge/bots-279-2563eb?style=flat-square)](#categories)
-[![Updated October 31, 2026](https://img.shields.io/badge/updated-2026--10--31-64748b?style=flat-square)](CHANGELOG.md)
+[![Bots](https://img.shields.io/badge/bots-297-2563eb?style=flat-square)](#categories)
+[![Updated November 4, 2026](https://img.shields.io/badge/updated-2026--11--04-64748b?style=flat-square)](CHANGELOG.md)
 
-A curated list of **279** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
+A curated list of **297** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
 
 These bots are unofficial and third-party. They are not made or endorsed by xAI. Review each bot before you add it. Most ask before they send email, file a form, delete, or block anything.
 
@@ -29,18 +29,18 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
     - [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) (5)
     - [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) (13)
   - [Work and tools](#work)
-    - [Productivity, Research & News](categories/productivity-research-and-news.md) (11)
-    - [Small Business & Freelance](categories/small-business-and-freelance.md) (3)
-    - [Developer & Power-User](categories/developer-and-power-user.md) (8)
-    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (14)
+    - [Productivity, Research & News](categories/productivity-research-and-news.md) (13)
+    - [Small Business & Freelance](categories/small-business-and-freelance.md) (8)
+    - [Developer & Power-User](categories/developer-and-power-user.md) (12)
+    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (16)
   - [Home and life](#life)
     - [Home, Car & Household](categories/home-car-and-household.md) (15)
     - [Family, School & Learning](categories/family-school-and-learning.md) (7)
     - [Health, Fitness & Food](categories/health-fitness-and-food.md) (10)
-    - [Travel](categories/travel.md) (8)
-    - [Career & Job Search](categories/career-and-job-search.md) (4)
+    - [Travel](categories/travel.md) (10)
+    - [Career & Job Search](categories/career-and-job-search.md) (5)
     - [X Creators & Content](categories/x-creators-and-content.md) (5)
-    - [Fun & Lifestyle](categories/fun-and-lifestyle.md) (4)
+    - [Fun & Lifestyle](categories/fun-and-lifestyle.md) (6)
 - [Guides](#guides)
   - [Suggested Stacks](guides/suggested-stacks.md)
   - [Making Bots Work Together](guides/making-bots-work-together.md)
@@ -69,20 +69,28 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 <a id="recently-added"></a>
 ## Recently added
 
-26 bots have `date_added` on October 31, 2026. This section lists each bot when that date has 20 or fewer. This one is larger, so here is the count by category.
+18 bots with `date_added` on November 4, 2026.
 
-| Category | Bots |
-| --- | --- |
-| [Security & Bot Safety](categories/security-and-bot-safety.md) | 1 |
-| [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) | 1 |
-| [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) | 5 |
-| [Productivity, Research & News](categories/productivity-research-and-news.md) | 1 |
-| [Small Business & Freelance](categories/small-business-and-freelance.md) | 3 |
-| [Developer & Power-User](categories/developer-and-power-user.md) | 2 |
-| [Home, Car & Household](categories/home-car-and-household.md) | 1 |
-| [Family, School & Learning](categories/family-school-and-learning.md) | 7 |
-| [Health, Fitness & Food](categories/health-fitness-and-food.md) | 3 |
-| [Travel](categories/travel.md) | 2 |
+| Bot | What it does | Creator | Category | Link |
+| --- | --- | --- | --- | --- |
+| [Rematch](categories/small-business-and-freelance.md#bot-_abcO9nWji9H9yX1r9XGV) | Finds stalled emails, quiet leads and open loops, then drafts follow-ups; nothing sends without your OK | [@MichaelHeckert](https://x.com/MichaelHeckert) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/_abcO9nWji9H9yX1r9XGV) |
+| [Contract Signer](categories/small-business-and-freelance.md#bot-emH53moZpEP8rqAECJBAd) | Drafts NDAs, service agreements and offers from a short brief and flags risky or missing terms in plain language | [@julianweber](https://x.com/julianweber) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/emH53moZpEP8rqAECJBAd) |
+| [Gridlock](categories/small-business-and-freelance.md#bot-wLGRmIN1v-L8Hlz_BWQd2) | Read-only spreadsheet critic that stress-tests a workbook and ranks issues as Blockers, Majors and Minors | [@LemT410113](https://x.com/LemT410113) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/wLGRmIN1v-L8Hlz_BWQd2) |
+| [Haggle Bot](categories/small-business-and-freelance.md#bot-pwQ612YrX3R0eACnIMlom) | Inventories SaaS spend from Ramp and bills, finds unused seats and duplicates, and drafts vendor negotiation emails | — | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/pwQ612YrX3R0eACnIMlom) |
+| [Pre-Call Brief](categories/small-business-and-freelance.md#bot-GjAx9sLjHoYK4AdKV-GxN) | Before each outside meeting, sends a one-screen brief on who they are, their company and your past emails; read-only | [@CaliLumberJack](https://x.com/CaliLumberJack) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/GjAx9sLjHoYK4AdKV-GxN) |
+| [Margin](categories/productivity-research-and-news.md#bot-GqStm_9by2_ffroZOIC3V) | Sweeps your calendars hourly for conflicts, pile-ups and missing rest, and fixes only what you allow | [@zackproser](https://x.com/zackproser) | [Productivity, Research & News](categories/productivity-research-and-news.md) | [Add](https://x.ai/bot/GqStm_9by2_ffroZOIC3V) |
+| [Phone Call Bot](categories/productivity-research-and-news.md#bot-5VOzTZvBuUv2bhQUqIXjj) | Makes real phone calls for you (cancellations, refunds, reservations) and reports back | Bowlboy | [Productivity, Research & News](categories/productivity-research-and-news.md) | [Add](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) |
+| [BoardingBuddy](categories/travel.md#bot-iRN5hVT_cAfwJMcMHVRLZ) | Checks you in on major airlines at the 24-hour mark and sends back your boarding pass | [@nollidzsab](https://x.com/nollidzsab) | [Travel](categories/travel.md) | [Add](https://x.ai/bot/iRN5hVT_cAfwJMcMHVRLZ) |
+| [Ultimate RV Trip Planner](categories/travel.md#bot-BZr7_j7WC1klRjG8SrwWx) | Plans multi-day RV trips around your rig: height-safe routes, paced legs, stays by budget and memberships, fuel, dump and weather stops | [@Cmillet77](https://x.com/Cmillet77) | [Travel](categories/travel.md) | [Add](https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx) |
+| [Res](categories/fun-and-lifestyle.md#bot-v5OIJ6Q7oIdUwTrRh-kfL) | Watches hard-to-get tables on Resy, SevenRooms, OpenTable and Tock for release drops and cancellations | [@ashen\_one](https://x.com/ashen_one) | [Fun & Lifestyle](categories/fun-and-lifestyle.md) | [Add](https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL) |
+| [Grok Bot DJ From Your Liked Songs](categories/fun-and-lifestyle.md#bot-UjSmyVMFFcQSdMxct69iQ) | Turns your library or streaming likes into deep-cut DJ sets in a style you pick, from college radio to quiet storm | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Fun & Lifestyle](categories/fun-and-lifestyle.md) | [Add](https://x.ai/bot/UjSmyVMFFcQSdMxct69iQ) |
+| [Reverse Engineer](categories/developer-and-power-user.md#bot-Tb1Ab2LqyV1ZrIpe4RjrC) | Figures out how an app, website, API or binary works, shows evidence for each finding, and rebuilds a working version | [@monokern](https://x.com/monokern) | [Developer & Power-User](categories/developer-and-power-user.md) | [Add](https://x.ai/bot/Tb1Ab2LqyV1ZrIpe4RjrC) |
+| [MCP Smith](categories/developer-and-power-user.md#bot-uE6vXqbOgcHBIwteOJ86p) | Builds MCP servers and agent plugins for any app or API with minimal working code, tested locally and delivered as draft PRs | [@falconortiz](https://x.com/falconortiz) | [Developer & Power-User](categories/developer-and-power-user.md) | [Add](https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p) |
+| [APP REPLICATOR](categories/developer-and-power-user.md#bot-EIaKiBO_5k6RITsM47150) | Clean-room rebuilds the one feature you actually use from an app you own, on a free or low-cost stack | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Developer & Power-User](categories/developer-and-power-user.md) | [Add](https://x.ai/bot/EIaKiBO_5k6RITsM47150) |
+| [T3 Code Bridge](categories/developer-and-power-user.md#bot-_5NG_WsrOdQs2jtUhZeQH) | Start, steer and watch T3 Code coding threads from Grok Bot (needs T3 Connect) | [@trevin](https://x.com/trevin) | [Developer & Power-User](categories/developer-and-power-user.md) | [Add](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) |
+| [Bot Improver](categories/bot-tools.md#bot-DsOFtUSYp4MhaOq_jv8qO) | Weekly check that your bots and automations actually move the numbers you care about, surfacing only fixes and disagreements | Eric | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/DsOFtUSYp4MhaOq_jv8qO) |
+| [Routine Auditor](categories/bot-tools.md#bot-3y5FglJHBwwg_nR7TxFaI) | Monthly audit of your routines: logs runs, finds failures and runs that do nothing, grades each and proposes trims you approve | [@bradgarland](https://x.com/bradgarland) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/3y5FglJHBwwg_nR7TxFaI) |
+| [Join a Startup Bot](categories/career-and-job-search.md#bot-XJCoBm6z7qjAnt9ScG8i7) | Daily handful of early-stage startup jobs the big boards miss | Ben | [Career & Job Search](categories/career-and-job-search.md) | [Add](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) |
 
 <a id="categories"></a>
 ## Categories
@@ -120,10 +128,10 @@ Bills, insurance, shopping, and packages.
 
 Research, developer tools, and bots that manage other bots.
 
-- [**Productivity, Research & News**](categories/productivity-research-and-news.md) (11) — Research, news, reading, and learning.
-- [**Small Business & Freelance**](categories/small-business-and-freelance.md) (3) — Bookkeeping, month-end close, and chasing unpaid invoices.
-- [**Developer & Power-User**](categories/developer-and-power-user.md) (8) — Shell, local models, Mac tools, and bridges from other assistants.
-- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (14) — Build plugins, cut routine usage, and back up bot setups.
+- [**Productivity, Research & News**](categories/productivity-research-and-news.md) (13) — Research, news, reading, and learning.
+- [**Small Business & Freelance**](categories/small-business-and-freelance.md) (8) — Bookkeeping, month-end close, and chasing unpaid invoices.
+- [**Developer & Power-User**](categories/developer-and-power-user.md) (12) — Shell, local models, Mac tools, and bridges from other assistants.
+- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (16) — Build plugins, cut routine usage, and back up bot setups.
 
 <a id="life"></a>
 ### Home and life
@@ -133,10 +141,10 @@ Home, health, travel, work, and everything else.
 - [**Home, Car & Household**](categories/home-car-and-household.md) (15) — Warranties, maintenance, home search, and contractor bids.
 - [**Family, School & Learning**](categories/family-school-and-learning.md) (7) — School portals, IEPs, co-parenting, homework help, library cards, and languages.
 - [**Health, Fitness & Food**](categories/health-fitness-and-food.md) (10) — Training, meals, insurance claims, and appointment prep.
-- [**Travel**](categories/travel.md) (8) — Road trips, flights, parks, packing, and snow.
-- [**Career & Job Search**](categories/career-and-job-search.md) (4) — Find roles, tailor a resume, and practice interviews.
+- [**Travel**](categories/travel.md) (10) — Road trips, flights, parks, packing, and snow.
+- [**Career & Job Search**](categories/career-and-job-search.md) (5) — Find roles, tailor a resume, and practice interviews.
 - [**X Creators & Content**](categories/x-creators-and-content.md) (5) — See what posted well, cut clips, and draft replies.
-- [**Fun & Lifestyle**](categories/fun-and-lifestyle.md) (4) — Sports, skywatching, tabletop games, and voting.
+- [**Fun & Lifestyle**](categories/fun-and-lifestyle.md) (6) — Sports, skywatching, tabletop games, and voting.
 
 <a id="guides"></a>
 ## Guides

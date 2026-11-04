@@ -4,7 +4,7 @@
 
 Road trips, flights, parks, packing, and snow.
 
-**8** bots. Third-party and unofficial. Read the template before you add it.
+**10** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -16,6 +16,8 @@ Road trips, flights, parks, packing, and snow.
 | <a id="bot-nCmF4qR0936pN-fTmDTKG"></a>**Starlink Scout** | Finds United flights with free Starlink Wi-Fi, confirms them on United's tracker three days out, and alerts you if the plane changes | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/nCmF4qR0936pN-fTmDTKG) |
 | <a id="bot-wg82QACOYA6z6ZzFURvcZ"></a>**Travel Guru** | Knows your airline, hotel and rental-car programs, finds the smartest mix of cash and points for each trip, and books only with your OK | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/wg82QACOYA6z6ZzFURvcZ) |
 | <a id="bot-HUyK_n0GZRm8NXq_Sgw5I"></a>**Travel Delay Copilot** | When a flight is delayed, canceled or you misconnect, pulls live airline policy and passenger-rights rules with dated sources and drafts what to ask the desk | [@fPelin17](https://x.com/fPelin17) | [Add](https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I) |
+| <a id="bot-iRN5hVT_cAfwJMcMHVRLZ"></a>**BoardingBuddy** | Checks you in on major airlines at the 24-hour mark and sends back your boarding pass | [@nollidzsab](https://x.com/nollidzsab) | [Add](https://x.ai/bot/iRN5hVT_cAfwJMcMHVRLZ) |
+| <a id="bot-BZr7_j7WC1klRjG8SrwWx"></a>**Ultimate RV Trip Planner** | Plans multi-day RV trips around your rig: height-safe routes, paced legs, stays by budget and memberships, fuel, dump and weather stops | [@Cmillet77](https://x.com/Cmillet77) | [Add](https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx) |
 
 ---
 

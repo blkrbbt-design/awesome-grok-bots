@@ -4,7 +4,22 @@
 
 Shell, local models, Mac tools, and bridges from other assistants.
 
-**8** bots. Third-party and unofficial. Read the template before you add it.
+**12** bots. Third-party and unofficial. Read the template before you add it.
+
+## On this page
+
+- [Bridge Bot](#bot-GHoerhXVqIMYC2VmYI_fZ)
+- [Claude Remote](#bot-aB0M7wQOAcFgd_G0rTEWF)
+- [Terminal Boss](#bot-aU_t4X-Yf6w9DHfhIGD9n)
+- [Apple Mac Tools](#bot-_qhDx4CZfm2-h1RkRyef1)
+- [Disk Doctor](#bot-EVQ-0yhShRgL-2qAfdD-8)
+- [Local AI Manager](#bot-yQvAz8GjmB73Bv6G30iX8)
+- [Action Button Bot](#bot-yc8yWwlDJLRwr0JuyHRhA)
+- [Apple Shortcut bot](#bot-stzDdeRg2k_6ckJd3WOWy)
+- [Reverse Engineer](#bot-Tb1Ab2LqyV1ZrIpe4RjrC)
+- [MCP Smith](#bot-uE6vXqbOgcHBIwteOJ86p)
+- [APP REPLICATOR](#bot-EIaKiBO_5k6RITsM47150)
+- [T3 Code Bridge](#bot-_5NG_WsrOdQs2jtUhZeQH)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -16,6 +31,10 @@ Shell, local models, Mac tools, and bridges from other assistants.
 | <a id="bot-yQvAz8GjmB73Bv6G30iX8"></a>**Local AI Manager** | Sets up an open AI model on your own hardware, keeps it running, and handles local AI use through Grok Bot | [@ChefMcMakin](https://x.com/ChefMcMakin) | [Add](https://x.ai/bot/yQvAz8GjmB73Bv6G30iX8) |
 | <a id="bot-yc8yWwlDJLRwr0JuyHRhA"></a>**Action Button Bot** | Hold the iPhone Action Button on any reel, video or page, ask out loud, and get a silent answer as a notification | [@everestchris6](https://x.com/everestchris6) | [Add](https://x.ai/bot/yc8yWwlDJLRwr0JuyHRhA) |
 | <a id="bot-stzDdeRg2k_6ckJd3WOWy"></a>**Apple Shortcut bot** | Turns a plain description into an Apple Shortcut you can install on iPhone, iPad or Mac, checked against your OS version | — | [Add](https://x.ai/bot/stzDdeRg2k_6ckJd3WOWy) |
+| <a id="bot-Tb1Ab2LqyV1ZrIpe4RjrC"></a>**Reverse Engineer** | Figures out how an app, website, API or binary works, shows evidence for each finding, and rebuilds a working version | [@monokern](https://x.com/monokern) | [Add](https://x.ai/bot/Tb1Ab2LqyV1ZrIpe4RjrC) |
+| <a id="bot-uE6vXqbOgcHBIwteOJ86p"></a>**MCP Smith** | Builds MCP servers and agent plugins for any app or API with minimal working code, tested locally and delivered as draft PRs | [@falconortiz](https://x.com/falconortiz) | [Add](https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p) |
+| <a id="bot-EIaKiBO_5k6RITsM47150"></a>**APP REPLICATOR** | Clean-room rebuilds the one feature you actually use from an app you own, on a free or low-cost stack | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/EIaKiBO_5k6RITsM47150) |
+| <a id="bot-_5NG_WsrOdQs2jtUhZeQH"></a>**T3 Code Bridge** | Start, steer and watch T3 Code coding threads from Grok Bot (needs T3 Connect) | [@trevin](https://x.com/trevin) | [Add](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) |
 
 ---
 

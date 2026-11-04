@@ -4,7 +4,23 @@
 
 Research, news, reading, and learning.
 
-**11** bots. Third-party and unofficial. Read the template before you add it.
+**13** bots. Third-party and unofficial. Read the template before you add it.
+
+## On this page
+
+- [What's New](#bot-dEFFB5_KX5U06lNJWVZCi)
+- [Deep Research](#bot-T_ywHG8O1Wa-haah7ot9K)
+- [Swarm](#bot-b6mUEkSKsWyhe_ITaKW0t)
+- [Centelligence Brain Bot](#bot-HgJAKibC-EAZQ-Myn6tEM)
+- [Kindle Courier](#bot-LXZMn9iFYykfjhOdwffV6)
+- [Max News](#bot-WjQ0Az3myfhbARRzoAK89)
+- [Course Builder & Coach](#bot-x24KSm9R7DzNiaSeekeKY)
+- [Dropped-Ball Scanner](#bot-E-uo4CQ__9GjtWYhWLPQF)
+- [Bookmarks Brain](#bot-e6ZhqDkcH5ch4vCMwvpvp)
+- [Doc Merger](#bot-tMEJdHdRUQHgQMOOy-xjj)
+- [One Thing](#bot-fUdSeYAu8zNxDFZfVmyxt)
+- [Margin](#bot-GqStm_9by2_ffroZOIC3V)
+- [Phone Call Bot](#bot-5VOzTZvBuUv2bhQUqIXjj)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -19,6 +35,8 @@ Research, news, reading, and learning.
 | <a id="bot-e6ZhqDkcH5ch4vCMwvpvp"></a>**Bookmarks Brain** | Turns your X bookmarks into a searchable Markdown wiki with topic pages, saved in Git and updated weekly; only reads X and never posts | [@sayfism](https://x.com/sayfism) | [Add](https://x.ai/bot/e6ZhqDkcH5ch4vCMwvpvp) |
 | <a id="bot-tMEJdHdRUQHgQMOOy-xjj"></a>**Doc Merger** | Turns a scattered pile of documents into one master file (PDF plus HTML, Word and TXT) with an ordered table of contents and a check that every file made it in | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/tMEJdHdRUQHgQMOOy-xjj) |
 | <a id="bot-fUdSeYAu8zNxDFZfVmyxt"></a>**One Thing** | For to-do-list paralysis (built for ADHD): dump everything in and get one thing for today plus a 5-minute first step, no setup | [@KomoriGenjiro](https://x.com/KomoriGenjiro) | [Add](https://x.ai/bot/fUdSeYAu8zNxDFZfVmyxt) |
+| <a id="bot-GqStm_9by2_ffroZOIC3V"></a>**Margin** | Sweeps your calendars hourly for conflicts, pile-ups and missing rest, and fixes only what you allow | [@zackproser](https://x.com/zackproser) | [Add](https://x.ai/bot/GqStm_9by2_ffroZOIC3V) |
+| <a id="bot-5VOzTZvBuUv2bhQUqIXjj"></a>**Phone Call Bot** | Makes real phone calls for you (cancellations, refunds, reservations) and reports back | Bowlboy | [Add](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Build plugins, cut routine usage, and back up bot setups.
 
-**14** bots. Third-party and unofficial. Read the template before you add it.
+**16** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -22,6 +22,8 @@ Build plugins, cut routine usage, and back up bot setups.
 - [iMessage Relay](#bot-HeVOGnrIY9oMcgGkl3hO5)
 - [iOS Messages Connector](#bot-sleuFUT9GdxW2e4eyRAv7)
 - [Grokbot Mail](#bot-vHWtUqHtdpfhnwTFOfEVT)
+- [Bot Improver](#bot-DsOFtUSYp4MhaOq_jv8qO)
+- [Routine Auditor](#bot-3y5FglJHBwwg_nR7TxFaI)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -39,6 +41,8 @@ Build plugins, cut routine usage, and back up bot setups.
 | <a id="bot-HeVOGnrIY9oMcgGkl3hO5"></a>**iMessage Relay** | Brings your iMessages into X Chat so you can reply from there: one-minute Mac setup, picked contacts or all texts, quiet hours and one-tap /block | [@Phil\_Holland](https://x.com/Phil_Holland) | [Add](https://x.ai/bot/HeVOGnrIY9oMcgGkl3hO5) |
 | <a id="bot-sleuFUT9GdxW2e4eyRAv7"></a>**iOS Messages Connector** | Sets up BlueBubbles on an always-on Mac so your bots can read and send iMessages, then checks hourly and only speaks up if it goes down | [@Austen](https://x.com/Austen) | [Add](https://x.ai/bot/sleuFUT9GdxW2e4eyRAv7) |
 | <a id="bot-vHWtUqHtdpfhnwTFOfEVT"></a>**Grokbot Mail** | Private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account | [@Phil\_Holland](https://x.com/Phil_Holland) | [Add](https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT) |
+| <a id="bot-DsOFtUSYp4MhaOq_jv8qO"></a>**Bot Improver** | Weekly check that your bots and automations actually move the numbers you care about, surfacing only fixes and disagreements | Eric | [Add](https://x.ai/bot/DsOFtUSYp4MhaOq_jv8qO) |
+| <a id="bot-3y5FglJHBwwg_nR7TxFaI"></a>**Routine Auditor** | Monthly audit of your routines: logs runs, finds failures and runs that do nothing, grades each and proposes trims you approve | [@bradgarland](https://x.com/bradgarland) | [Add](https://x.ai/bot/3y5FglJHBwwg_nR7TxFaI) |
 
 ---
 
