@@ -2,14 +2,14 @@
 
 ## 2026-11-09
 
-Added 17 bots. The list now has 314. Each new entry keeps `date_added: 2026-11-09`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, and every candidate page loaded, so none were skipped. Every new entry has a creator and an X handle. Scam Second Opinion is under scams and phishing. Breach Watch is under account security. Device Health Check Bot is under everyday tech help.
+Added 15 bots. The list now has 312. Each new entry keeps `date_added: 2026-11-09`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, and every candidate page loaded, so none were skipped. Every new entry has a creator and an X handle. Scam Second Opinion is under scams and phishing. Breach Watch is under account security. Device Health Check Bot is under everyday tech help.
 
 - Money, Bills & Insurance (1): Broker
 - Security & Bot Safety (2): Scam Second Opinion, Breach Watch
 - Home Network, Smart Home & Tech Help (1): Device Health Check Bot
 - Productivity, Research & News (2): Competitor Watch, Deep Dive
 - Developer & Power-User (1): Reverse Website Swarm
-- Bot Tools (Manage Your Bots) (5): Routinizer, Freebot, Bot Usage Auditor, Usage Coach, Grokvis
+- Bot Tools (Manage Your Bots) (3): Freebot, Usage Coach, Grokvis
 - X Creators & Content (5): Animator, Video Lab, Viral Format Scout, Nole, Director
 
 Checked all 297 links already on the list. Each `https://x.ai/bot/<id>` returned HTTP 200, so none were removed.

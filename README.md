@@ -1,9 +1,9 @@
 # Awesome Grok Bots
 
-[![Bots](https://img.shields.io/badge/bots-314-2563eb?style=flat-square)](#categories)
+[![Bots](https://img.shields.io/badge/bots-312-2563eb?style=flat-square)](#categories)
 [![Updated November 9, 2026](https://img.shields.io/badge/updated-2026--11--09-64748b?style=flat-square)](CHANGELOG.md)
 
-A curated list of **314** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
+A curated list of **312** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
 
 These bots are unofficial and third-party. They are not made or endorsed by xAI. Review each bot before you add it. Most ask before they send email, file a form, delete, or block anything.
 
@@ -32,7 +32,7 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
     - [Productivity, Research & News](categories/productivity-research-and-news.md) (15)
     - [Small Business & Freelance](categories/small-business-and-freelance.md) (8)
     - [Developer & Power-User](categories/developer-and-power-user.md) (13)
-    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (21)
+    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (19)
   - [Home and life](#life)
     - [Home, Car & Household](categories/home-car-and-household.md) (15)
     - [Family, School & Learning](categories/family-school-and-learning.md) (7)
@@ -69,11 +69,10 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 <a id="recently-added"></a>
 ## Recently added
 
-17 bots with `date_added` on November 9, 2026.
+15 bots with `date_added` on November 9, 2026.
 
 | Bot | What it does | Creator | Category | Link |
 | --- | --- | --- | --- | --- |
-| [Routinizer](categories/bot-tools.md#bot-QIxjmlkTZr7SJbS599gWe) | Finds work your other bots redo from scratch every day, turns it into background Python scripts that only wake AI when something changes, and keeps those scripts running and healthy | [@0ooooo0](https://x.com/0ooooo0) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/QIxjmlkTZr7SJbS599gWe) |
 | [Broker](categories/money-bills-and-insurance.md#bot-_lwaVlXcjTz2RnZHfJjiD) | A personal insurance shopper that gathers your auto, home, and flood policies, compares like-for-like quotes, flags coverage gaps and discounts, and reminds you to reshop before renewals | [@dkmitc](https://x.com/dkmitc) | [Money, Bills & Insurance](categories/money-bills-and-insurance.md) | [Add](https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD) |
 | [Animator](categories/x-creators-and-content.md#bot-Hp85sZKzJNjabj8hakjee) | A personal motion graphic designer: describe an idea and it makes a multi-scene, story-driven animated video in code (Remotion), with animated Lottie icons and generated music, rendered to MP4 | [@nima\_owji](https://x.com/nima_owji) | [X Creators & Content](categories/x-creators-and-content.md) | [Add](https://x.ai/bot/Hp85sZKzJNjabj8hakjee) |
 | [Freebot](categories/bot-tools.md#bot-mrEaEhbIahB380oYB8N19) | Moves your whole Grok Bot setup (every bot, its memory, how-tos, and routines) into Turnstone so you get the same experience there with AI subscriptions you already have, like ChatGPT or Claude | [@aryanvij02](https://x.com/aryanvij02) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/mrEaEhbIahB380oYB8N19) |
@@ -81,7 +80,6 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 | [Breach Watch](categories/security-and-bot-safety.md#bot-PoHak8r9Bo76500L5mpHC) | Watches for data breaches at the services you use, checks suspicious emails, texts, and links for scams, and walks you through simple security checkups in plain words | [@tanderson9](https://x.com/tanderson9) | [Security & Bot Safety](categories/security-and-bot-safety.md) | [Add](https://x.ai/bot/PoHak8r9Bo76500L5mpHC) |
 | [Video Lab](categories/x-creators-and-content.md#bot-omXn2V1U6B4V4qU2XcI0T) | Makes videos with code (explainers, motion graphics, ads, product demos, short clips) by launching cloud agents that render an MP4 with designed sound | [@gabogabucho](https://x.com/gabogabucho) | [X Creators & Content](categories/x-creators-and-content.md) | [Add](https://x.ai/bot/omXn2V1U6B4V4qU2XcI0T) |
 | [Device Health Check Bot](categories/home-network-and-tech.md#bot-oVtHm6fwB4QD1o6lGEfx0) | Audit-first checkup for your phone and laptop covering security, privacy, storage, and slowdowns; you get a ranked fix list and an HTML plus PDF report, and it changes only what you approve | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) | [Add](https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0) |
-| [Bot Usage Auditor](categories/bot-tools.md#bot-q3SSgNdHtUnhfepCkT_h7) | Finds which bots earn their usage, which run too often, and which duplicate unused work, and recommends Keep, Slim, Pause, or Delete, with every change left to you | [@HeyYoGB](https://x.com/HeyYoGB) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/q3SSgNdHtUnhfepCkT_h7) |
 | [Usage Coach](categories/bot-tools.md#bot-W-MSl0_nJJWc2XcCqQOzi) | A weekly coach for your Grok Bot setup: reviews how you and your bots actually work, compares that to the official guides, and sends a short report on real time and credit savers | [@WilburJaywright](https://x.com/WilburJaywright) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) |
 | [Competitor Watch](categories/productivity-research-and-news.md#bot-iTKQ09ZMtiV9K9JkwCbmA) | Checks competitors' public pages (site, pricing, changelog, blog, job posts, and public X) against last time and sends one short digest of real changes with a source link, staying quiet when nothing changed | [@CaliLumberJack](https://x.com/CaliLumberJack) | [Productivity, Research & News](categories/productivity-research-and-news.md) | [Add](https://x.ai/bot/iTKQ09ZMtiV9K9JkwCbmA) |
 | [Viral Format Scout](categories/x-creators-and-content.md#bot-75I3z39UdqQafBB8_p_IM) | Send it a rough idea or draft and it finds real high-performing X posts, breaks down their structure, and rewrites your post in your voice | [@0xHvdes](https://x.com/0xHvdes) | [X Creators & Content](categories/x-creators-and-content.md) | [Add](https://x.ai/bot/75I3z39UdqQafBB8_p_IM) |
@@ -130,7 +128,7 @@ Research, developer tools, and bots that manage other bots.
 - [**Productivity, Research & News**](categories/productivity-research-and-news.md) (15) — Research, news, reading, and learning.
 - [**Small Business & Freelance**](categories/small-business-and-freelance.md) (8) — Bookkeeping, month-end close, and chasing unpaid invoices.
 - [**Developer & Power-User**](categories/developer-and-power-user.md) (13) — Shell, local models, Mac tools, and bridges from other assistants.
-- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (21) — Build plugins, cut routine usage, and back up bot setups.
+- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (19) — Build plugins, cut routine usage, and back up bot setups.
 
 <a id="life"></a>
 ### Home and life

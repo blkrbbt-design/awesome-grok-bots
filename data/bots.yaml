@@ -3128,16 +3128,6 @@ bots:
     date_added: "2026-11-04"
     source: "majiayu000/awesome-grok-bot"
 
-  - name: "Routinizer"
-    creator: "Ivan kim"
-    creator_handle: "0ooooo0"
-    description: "Finds work your other bots redo from scratch every day, turns it into background Python scripts that only wake AI when something changes, and keeps those scripts running and healthy"
-    category: "bot-tools"
-    subcategory: ""
-    link: "https://x.ai/bot/QIxjmlkTZr7SJbS599gWe"
-    date_added: "2026-11-09"
-    source: "Bot Template Radar (https://bots.neverfail.si/)"
-
   - name: "Broker"
     creator: "Dylan Mitchell"
     creator_handle: "dkmitc"
@@ -3205,16 +3195,6 @@ bots:
     category: "home-network-and-tech"
     subcategory: "upkeep"
     link: "https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0"
-    date_added: "2026-11-09"
-    source: "Bot Template Radar (https://bots.neverfail.si/)"
-
-  - name: "Bot Usage Auditor"
-    creator: "GBE"
-    creator_handle: "HeyYoGB"
-    description: "Finds which bots earn their usage, which run too often, and which duplicate unused work, and recommends Keep, Slim, Pause, or Delete, with every change left to you"
-    category: "bot-tools"
-    subcategory: ""
-    link: "https://x.ai/bot/q3SSgNdHtUnhfepCkT_h7"
     date_added: "2026-11-09"
     source: "Bot Template Radar (https://bots.neverfail.si/)"
 
