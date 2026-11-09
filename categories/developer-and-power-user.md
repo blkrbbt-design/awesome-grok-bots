@@ -4,7 +4,7 @@
 
 Shell, local models, Mac tools, and bridges from other assistants.
 
-**12** bots. Third-party and unofficial. Read the template before you add it.
+**13** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -20,6 +20,7 @@ Shell, local models, Mac tools, and bridges from other assistants.
 - [MCP Smith](#bot-uE6vXqbOgcHBIwteOJ86p)
 - [APP REPLICATOR](#bot-EIaKiBO_5k6RITsM47150)
 - [T3 Code Bridge](#bot-_5NG_WsrOdQs2jtUhZeQH)
+- [Reverse Website Swarm](#bot-43Pa_W8af71QSWZkb90m8)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -35,6 +36,7 @@ Shell, local models, Mac tools, and bridges from other assistants.
 | <a id="bot-uE6vXqbOgcHBIwteOJ86p"></a>**MCP Smith** | Builds MCP servers and agent plugins for any app or API with minimal working code, tested locally and delivered as draft PRs | [@falconortiz](https://x.com/falconortiz) | [Add](https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p) |
 | <a id="bot-EIaKiBO_5k6RITsM47150"></a>**APP REPLICATOR** | Clean-room rebuilds the one feature you actually use from an app you own, on a free or low-cost stack | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/EIaKiBO_5k6RITsM47150) |
 | <a id="bot-_5NG_WsrOdQs2jtUhZeQH"></a>**T3 Code Bridge** | Start, steer and watch T3 Code coding threads from Grok Bot (needs T3 Connect) | [@trevin](https://x.com/trevin) | [Add](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) |
+| <a id="bot-43Pa_W8af71QSWZkb90m8"></a>**Reverse Website Swarm** | Studies how a website is built and crafts a working copy with Craft Anything from a URL or a local page | [@monokern](https://x.com/monokern) | [Add](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) |
 
 ---
 

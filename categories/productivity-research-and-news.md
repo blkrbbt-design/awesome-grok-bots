@@ -4,7 +4,7 @@
 
 Research, news, reading, and learning.
 
-**13** bots. Third-party and unofficial. Read the template before you add it.
+**15** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -21,6 +21,8 @@ Research, news, reading, and learning.
 - [One Thing](#bot-fUdSeYAu8zNxDFZfVmyxt)
 - [Margin](#bot-GqStm_9by2_ffroZOIC3V)
 - [Phone Call Bot](#bot-5VOzTZvBuUv2bhQUqIXjj)
+- [Competitor Watch](#bot-iTKQ09ZMtiV9K9JkwCbmA)
+- [Deep Dive](#bot-JrY2AEbR1I1TLVU4E3OIy)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -37,6 +39,8 @@ Research, news, reading, and learning.
 | <a id="bot-fUdSeYAu8zNxDFZfVmyxt"></a>**One Thing** | For to-do-list paralysis (built for ADHD): dump everything in and get one thing for today plus a 5-minute first step, no setup | [@KomoriGenjiro](https://x.com/KomoriGenjiro) | [Add](https://x.ai/bot/fUdSeYAu8zNxDFZfVmyxt) |
 | <a id="bot-GqStm_9by2_ffroZOIC3V"></a>**Margin** | Sweeps your calendars hourly for conflicts, pile-ups and missing rest, and fixes only what you allow | [@zackproser](https://x.com/zackproser) | [Add](https://x.ai/bot/GqStm_9by2_ffroZOIC3V) |
 | <a id="bot-5VOzTZvBuUv2bhQUqIXjj"></a>**Phone Call Bot** | Makes real phone calls for you (cancellations, refunds, reservations) and reports back | Bowlboy | [Add](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) |
+| <a id="bot-iTKQ09ZMtiV9K9JkwCbmA"></a>**Competitor Watch** | Checks competitors' public pages (site, pricing, changelog, blog, job posts, and public X) against last time and sends one short digest of real changes with a source link, staying quiet when nothing changed | [@CaliLumberJack](https://x.com/CaliLumberJack) | [Add](https://x.ai/bot/iTKQ09ZMtiV9K9JkwCbmA) |
+| <a id="bot-JrY2AEbR1I1TLVU4E3OIy"></a>**Deep Dive** | A deep-research assistant that investigates any question across studies, primary documents, news, and social media, reads sources in full, explains contradictions, and tells you how sure it is | [@175rng](https://x.com/175rng) | [Add](https://x.ai/bot/JrY2AEbR1I1TLVU4E3OIy) |
 
 ---
 

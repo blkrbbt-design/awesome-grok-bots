@@ -4,7 +4,7 @@
 
 Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 
-**21** bots. Third-party and unofficial. Read the template before you add it.
+**22** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -29,6 +29,7 @@ Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 - [Refund & Renewal Tracker](#bot-wjfSNLEQBOthTC1MZFdDn)
 - [Health Insurance Claims](#bot-KN9j80u_RdjdnP1YNbC4g)
 - [Mortgage Servicer Desk (Beta)](#bot-1BlwsM5uiw6jVbA9hx-HY)
+- [Broker](#bot-_lwaVlXcjTz2RnZHfJjiD)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -53,6 +54,7 @@ Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 | <a id="bot-wjfSNLEQBOthTC1MZFdDn"></a>**Refund & Renewal Tracker** | Watches your inbox for charges, plan switches and refunds you're owed, nudges you when a promised refund is late, and warns you before annual renewals hit | [@RumNCodeDev](https://x.com/RumNCodeDev) | [Add](https://x.ai/bot/wjfSNLEQBOthTC1MZFdDn) |
 | <a id="bot-KN9j80u_RdjdnP1YNbC4g"></a>**Health Insurance Claims** | Helps you understand your health plan benefits, check whether something might not be covered, and appeal claim denials step by step | [@amartins02](https://x.com/amartins02) | [Add](https://x.ai/bot/KN9j80u_RdjdnP1YNbC4g) |
 | <a id="bot-1BlwsM5uiw6jVbA9hx-HY"></a>**Mortgage Servicer Desk (Beta)** | Free beta, not legal advice: for escrow jumps, force-placed insurance, PMI that should be gone or misapplied payments, drafts your notice of error or request letters and tracks the servicer's deadlines | [@hacks\_jimm53237](https://x.com/hacks_jimm53237) | [Add](https://x.ai/bot/1BlwsM5uiw6jVbA9hx-HY) |
+| <a id="bot-_lwaVlXcjTz2RnZHfJjiD"></a>**Broker** | A personal insurance shopper that gathers your auto, home, and flood policies, compares like-for-like quotes, flags coverage gaps and discounts, and reminds you to reshop before renewals | [@dkmitc](https://x.com/dkmitc) | [Add](https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD) |
 
 ---
 

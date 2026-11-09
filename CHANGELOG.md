@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-11-09
+
+Added 17 bots. The list now has 314. Each new entry keeps `date_added: 2026-11-09`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, and every candidate page loaded, so none were skipped. Every new entry has a creator and an X handle. Scam Second Opinion is under scams and phishing. Breach Watch is under account security. Device Health Check Bot is under everyday tech help.
+
+- Money, Bills & Insurance (1): Broker
+- Security & Bot Safety (2): Scam Second Opinion, Breach Watch
+- Home Network, Smart Home & Tech Help (1): Device Health Check Bot
+- Productivity, Research & News (2): Competitor Watch, Deep Dive
+- Developer & Power-User (1): Reverse Website Swarm
+- Bot Tools (Manage Your Bots) (5): Routinizer, Freebot, Bot Usage Auditor, Usage Coach, Grokvis
+- X Creators & Content (5): Animator, Video Lab, Viral Format Scout, Nole, Director
+
+Checked all 297 links already on the list. Each `https://x.ai/bot/<id>` returned HTTP 200, so none were removed.
+
+The approvals tip now matches the current docs: an approval from a chat you started waits, and one from a routine or other background work expires after 30 minutes ([Approvals, security, and privacy](https://docs.x.ai/grok-bot/approvals-security-and-privacy)). Added a tip on Teach a task from [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations): record one browser workflow, up to ten minutes, with no microphone audio, then review the draft skill before you schedule it.
+
 ## 2026-11-04
 
 Added 18 bots. The list now has 297. Each new entry keeps `date_added: 2026-11-04`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Haggle Bot names no creator. Phone Call Bot (Bowlboy), Bot Improver (Eric), and Join a Startup Bot (Ben) have an empty `creator_handle`, so those names stay plain text.

@@ -4,7 +4,7 @@
 
 Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
 
-**50** bots. Third-party and unofficial. Read the template before you add it.
+**52** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -21,8 +21,8 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [Security (gatekeeper)](#bot-DWcrUM2ZY3g7lhp0pPA5l)
   - [BotSec](#bot-1YzVIsTRcLxaqlLZouJiB)
   - [Box Inspector](#bot-q7GLbLhMZDpJXBGuuci1J)
-- [Account security, breaches & identity](#account-security) (8)
-- [Scams, phishing & imposters](#scams-phishing) (13)
+- [Account security, breaches & identity](#account-security) (9)
+- [Scams, phishing & imposters](#scams-phishing) (14)
   - [Is This a Scam?](#bot-Jc3Eh6tRUvTLYqdGjTm7q)
   - [Scam Check](#bot-t9mlx--OQnQ2itHxQYQmd)
   - [Inbox Guardian](#bot-n6bSJ2vt2rZuIQahc6G1h)
@@ -36,6 +36,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [Inbox Injection Guard](#bot-lsXZ6NdEqAdCHe8z88QAl)
   - [DM Screen](#bot-94kCbVV39EYR-lt_PaFJF)
   - [Magnum P.I.](#bot-hSJYHTSH02J0ZchLG-zu8)
+  - [Scam Second Opinion](#bot-UoJ81zfk-RrkdEkMdIw9w)
 - [Vulnerabilities, patches, domains & code](#vulnerabilities) (17)
   - [Patch Alert](#bot-GJ6wSFte1rfQRD8oZVrpK)
   - [Vuln Scout](#bot-IiV3YZZ2TAF63sPORZmWy)
@@ -84,6 +85,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-v5MedUVzGQEty_TkPMpyL"></a>**MyPeople Bot** | Give it your email and it shows which breaches you're in, with the three fixes that matter most | [@StuyBoyNY](https://x.com/StuyBoyNY) | [Add](https://x.ai/bot/v5MedUVzGQEty_TkPMpyL) |
 | <a id="bot-xWzmqrAs6JGivQQskJyNy"></a>**Privacy Sentinel** | Household privacy check: breached emails, data-broker listings and exposed details, then a short ranked fix list | [@MinocrisyHQ](https://x.com/MinocrisyHQ) | [Add](https://x.ai/bot/xWzmqrAs6JGivQQskJyNy) |
 | <a id="bot-5_zmKmejS35jcMfnGOErj"></a>**Vault Tidy** | Scans Grok Bot Vault metadata for duplicate logins and contacts, messy labels and expired cards without exposing passwords | [@lisamausa](https://x.com/lisamausa) | [Add](https://x.ai/bot/5_zmKmejS35jcMfnGOErj) |
+| <a id="bot-PoHak8r9Bo76500L5mpHC"></a>**Breach Watch** | Watches for data breaches at the services you use, checks suspicious emails, texts, and links for scams, and walks you through simple security checkups in plain words | [@tanderson9](https://x.com/tanderson9) | [Add](https://x.ai/bot/PoHak8r9Bo76500L5mpHC) |
 
 ## <a id="scams-phishing"></a>Scams, phishing & imposters
 
@@ -102,6 +104,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-lsXZ6NdEqAdCHe8z88QAl"></a>**Inbox Injection Guard** | Screens your email for hidden instructions aimed at AI assistants (white text, zero-width characters, "ignore previous instructions") and flags them without ever following them | [@teeRex247](https://x.com/teeRex247) | [Add](https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl) |
 | <a id="bot-94kCbVV39EYR-lt_PaFJF"></a>**DM Screen** | Screens new X DMs and message requests every night, flags scams and pitches, and drafts short replies to the real ones for you to send; can't reply or block on its own | [@JonHolland1776](https://x.com/JonHolland1776) | [Add](https://x.ai/bot/94kCbVV39EYR-lt_PaFJF) |
 | <a id="bot-hSJYHTSH02J0ZchLG-zu8"></a>**Magnum P.I.** | Vets websites, sellers, credentials and dating matches against public records and gives a clear trust verdict | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/hSJYHTSH02J0ZchLG-zu8) |
+| <a id="bot-UoJ81zfk-RrkdEkMdIw9w"></a>**Scam Second Opinion** | Calm second opinion before you click, pay, or reply to a suspicious message, call, link, or prize notice, with red flags, verified sources, and one safe next step | [@KuttyPrabhu](https://x.com/KuttyPrabhu) | [Add](https://x.ai/bot/UoJ81zfk-RrkdEkMdIw9w) |
 
 ## <a id="vulnerabilities"></a>Vulnerabilities, patches, domains & code
 
